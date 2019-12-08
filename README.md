@@ -12,5 +12,12 @@ This project has been running with the configuration below:
 * sklearn == 0.21.3
 * imblearn == 0.5.0
 
+### Methods Used
+* EDA
+* Data Visualization
+* Machine Learning
+* Over Sampling
+* Predictive Modeling
+
 ### Authors
 * Andriamiharisoa Mahanamana - Machine Learning Engineer-DS
