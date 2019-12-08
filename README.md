@@ -1,5 +1,7 @@
 # Churn Prediction
-Anticipating in advance the customers who are likely to unsubscribe has become essential for the smooth running of the Companies today. This project tries to meet this expectation in the field of telecommunication.
+Being able to predict a potential loss of customers has become paramount for today's digital businesses.
+This project provides an answer on the problem of classification of subscribers in the field of telecommunications.
+Our contribution is on the exploratory analysis to get an idea about the behavior of the customers, pretreatment data set and the implementation and optimization of the classifier.
 
 ### Prerequis
 This project has been running with the configuration below:
@@ -9,3 +11,6 @@ This project has been running with the configuration below:
 * seaborn == 0.9.0
 * sklearn == 0.21.3
 * imblearn == 0.5.0
+
+### Authors
+* Andriamiharisoa Mahanamana - Machine Learning Engineer-DS
