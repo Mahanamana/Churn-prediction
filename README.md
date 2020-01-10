@@ -1,5 +1,5 @@
 # Churn Prediction
-Being able to predict a potential loss of customers has become paramount for today's digital businesses.
+Being able to predict a potential churn of customers has become important for today's digital businesses.
 This project provides an answer on the problem of classification of subscribers in the field of telecommunications.
 Our contribution is on the exploratory analysis to get an idea about the behavior of the customers, pretreatment data set and the implementation and optimization of the classifier.
 
